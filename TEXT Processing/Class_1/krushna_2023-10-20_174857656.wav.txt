@@ -1,0 +1,204 @@
+2
+0:00:00
+Hello, how are you?
+
+9
+0:00:03
+What's going on?
+
+1
+0:00:05
+I'm in my fourth year of engineering. I'm in the placement drive.
+
+2
+0:00:11
+How is the environment? Is it quiet or disturbing?
+
+1
+0:00:15
+It's a little stressful, I'm not sure if I'll be placed.
+
+2
+0:00:19
+Have you put in the effort?
+
+1
+0:00:22
+No, not really. I have to do my best.
+
+8
+0:00:30
+Why?
+
+1
+0:00:32
+I am bored.
+
+7
+0:00:36
+You are bored?
+
+3
+0:00:37
+Yes.
+
+2
+0:00:38
+Because of engineering?
+
+1
+0:00:43
+Yes, but I have to do my best. But you didn't get the focus?
+
+7
+0:00:53
+Yes, I didn't get the focus.
+
+2
+0:00:56
+Why?
+
+1
+0:00:58
+It's not specific, but the surroundings, no one is taking it so seriously.
+
+2
+0:01:06
+What do you want to do in future?
+
+1
+0:01:09
+I want a placement, so I want to do MBA after 1-2 years of job experience.
+
+2
+0:01:14
+What are you looking for?
+
+1
+0:01:19
+I listen to music, draw, I used to draw less but now I do
+
+2
+0:01:26
+How is college life?
+
+1
+0:01:29
+It was interesting in the beginning, I wanted to go to college but now I don't
+
+2
+0:01:35
+What is the best part of college?
+
+6
+0:01:36
+Friends, circle, etc
+
+1
+0:01:37
+Is it the best? Yes, it is the best Best student What should a student undertake?
+
+2
+0:01:45
+What should be allowed in their personality?
+
+1
+0:01:48
+To be a good student Discipline Consistency
+
+2
+0:01:54
+What do you think? What do you like?
+
+1
+0:01:56
+Consistency
+
+5
+0:01:58
+Consistency. Do you have any regrets?
+
+3
+0:02:01
+I do have regrets
+
+2
+0:02:03
+But is it too much or how? No, I mean, it's not too much but... I mean, we didn't go that far, but still we know that we can do more I can still do more. It's just that time will come
+
+1
+0:02:15
+There is potential. You have done well, but there are chances of doing better than that.
+
+4
+0:02:52
+So, you are from Pune?
+
+2
+0:02:54
+Yes. So, is there any problem with the adjustment? No. So, what do you think about MBA?
+
+3
+0:03:01
+Is there a direct job after engineering?
+
+2
+0:03:04
+I think it's because of the market down and recession.
+
+1
+0:03:08
+In the last few years, there has been a lot of placements. This year, it's not the case. Not just in college, but in campus as well? Yes, in campus. So there is a little space. But you didn't do much outside?
+
+2
+0:03:24
+No, I went to see the off-campus, there is still competition.
+
+1
+0:03:27
+So, it means it's going to happen.
+
+3
+0:03:38
+Do you have any other stress? No, I don't.
+
+2
+0:03:41
+Do you ever feel that you are in a stressful situation?
+
+1
+0:03:43
+Yes, sometimes I do.
+
+2
+0:03:44
+Because I feel that if I don't have a deal with a company, I won't be able to do it.
+
+1
+0:03:48
+So, you don't have any other worry about it? No.
+
+2
+0:03:52
+What do you think is the biggest problem of today's youth?
+
+3
+0:04:04
+What do you think everyone is missing?
+
+2
+0:04:06
+I would say it is not about consistency. We don't do everything at once.
+
+3
+0:04:13
+There is progress.
+
+1
+0:04:15
+Okay. Thank you. Okay. Okay. Thank you.
+
+
+
+
+Transcribed with Cockatoo

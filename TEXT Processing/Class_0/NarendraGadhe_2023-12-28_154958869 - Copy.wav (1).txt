@@ -1,0 +1,112 @@
+1
+0:00:00
+Hello.
+
+2
+0:00:01
+Hello ma'am.
+
+1
+0:00:02
+How are you? I am fine.
+
+2
+0:00:04
+What is going on? We are currently working on a competition for the film, Firoziya Karandak.
+
+1
+0:00:12
+What is there in Firoziya Karandak?
+
+2
+0:00:14
+We are basically doing a play. There are different events in the play, like dance, acting, writing, direction, I have been doing this for a long time. I have been doing this for a long time. I have been doing this for a long time.
+
+1
+0:00:43
+Okay, you are doing computer engineering. Which of these things do you like the most? The art circle is different. And your education background is different. How do you balance these two? I don't balance them.
+
+1
+0:01:01
+I am fully focused on the art circle. But now, I tried to recover my educational loss and join somewhere else.
+
+2
+0:01:20
+And then I tried to manage both the 8th and 9th circles.
+
+1
+0:01:24
+So, you are managing your studies now?
+
+2
+0:01:27
+Yes, I mean, not completely, but I am passing. It's all clear.
+
+1
+0:01:31
+Okay. Which subject do you like the most, technically?
+
+2
+0:01:36
+I don't have a subject.
+
+1
+0:01:38
+So, computer is a very big branch. So, do you like Java or AI, machine learning, cloud computing? AI is a little interesting. Why do you find it interesting? Because it is a bit like developing, human communication. So, if you want to do something in the future, what will you do?
+
+1
+0:02:03
+I mean, computer related. I like AI. It is interesting. I like to do something creative. What is your project now? Now, I am doing eye cancer detection. So, that is also machine learning based? Yes.
+
+1
+0:02:22
+AI based. And apart from the art circle, what else do you like? I like to travel with my friends.
+
+4
+0:02:29
+Where do you travel?
+
+2
+0:02:31
+I don't like to go out, but I like to travel with my friends. How is your train circle? It's good. What do you do normally? We just chat. I'm
+
+1
+0:03:05
+From 12th to now, or from your childhood, any such thing? Yes. Can you tell me? I can't tell you now. When I was 14, my mother passed away.
+
+3
+0:03:21
+Okay.
+
+1
+0:03:22
+So, what did you feel about your mother?
+
+2
+0:03:26
+I was very young and didn't know anything.
+
+1
+0:03:30
+I didn't feel anything at that time. But after that I understood everything. I started to see the world.
+
+2
+0:03:36
+That's how I feel. Have you ever felt that you should have been closer to your parents? That you wanted to be closer to them?
+
+1
+0:03:45
+Have you ever felt that? I have felt that. I have understood small things. Even if I have to face difficulties, I don't feel like that. I don't feel like that. I
+
+1
+0:03:53
+I
+
+2
+0:04:13
+I don't know.
+
+
+
+
+Transcribed with Cockatoo

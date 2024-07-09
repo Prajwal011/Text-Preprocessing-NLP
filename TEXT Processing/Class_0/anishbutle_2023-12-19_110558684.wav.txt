@@ -1,0 +1,188 @@
+3
+0:00:00
+Hello.
+
+7
+0:00:01
+Hello.
+
+2
+0:00:02
+How are you?
+
+7
+0:00:04
+I'm fine.
+
+2
+0:00:05
+How do you prepare for the future?
+
+1
+0:00:08
+I start preparing for the placement.
+
+2
+0:00:12
+What are your future plans?
+
+1
+0:00:16
+I want to go to IT. I'm preparing for that.
+
+2
+0:00:22
+What are you preparing for?
+
+1
+0:00:25
+I want to become a software developer in the future. I am preparing for that. I am working in IT department. I am working in coding department. What do you like the most?
+
+2
+0:00:36
+Education or general?
+
+6
+0:00:38
+Which one do you like?
+
+1
+0:00:40
+Watching movies.
+
+2
+0:00:42
+Documentaries. What kind of emotions do you feel in the movie?
+
+1
+0:00:52
+Realistic. Like something happened in real life.
+
+2
+0:00:56
+What kind of incident has impacted you so far?
+
+1
+0:01:00
+2011. 2011? 26, 11, 21.
+
+2
+0:01:05
+What was the scenario?
+
+1
+0:01:07
+The attack in 2008.
+
+3
+0:01:10
+Ok.
+
+2
+0:01:11
+So what do you think about the situation?
+
+1
+0:01:15
+It should not have happened. It happened for a reason. Someone is getting involved. You were in trouble. What do you think you should do?
+
+2
+0:01:24
+It should have been a little more secure. It has an impact.
+
+1
+0:01:27
+How is your friend zone? Normal. Do you like to spend time with my friends. I am not interested in online. I mostly use mobile phones. I don't use chat rooms.
+
+2
+0:01:46
+What is the most enjoyable thing that has happened to you?
+
+1
+0:01:51
+The most enjoyable thing? I have been doing this since 10th grade. I am still maintaining it.
+
+2
+0:02:10
+What is the biggest problem you have faced?
+
+1
+0:02:13
+I have lost my kidney.
+
+2
+0:02:16
+So you are facing problems because of your physical health. Otherwise, you don't have any other problems. Do you think you have seen many failures in your life.
+
+1
+0:02:27
+Yes, I have seen them in the papers. Not in the papers, but I have seen them in the papers. I have made some decisions in my life.
+
+2
+0:02:35
+How many times have you made such decisions?
+
+5
+0:02:37
+I have made some decisions.
+
+1
+0:02:38
+I have made 4-5 such decisions. For example, I have had a kidney stone. I had a kidney stone before, but I had a double one. I did not take proper care of it. I did not make the right decisions.
+
+2
+0:02:48
+And why do you think you are at risk of getting a future?
+
+1
+0:02:53
+I don't follow the proper procedure.
+
+2
+0:02:57
+What should you do?
+
+1
+0:02:59
+I should follow the proper procedure. I should collect the interest.
+
+2
+0:03:06
+And which part do you feel guilty about?
+
+1
+0:03:09
+I haven't given a proper statement. I didn't get proper treatment. Now it has increased.
+
+4
+0:03:18
+Why do you have physical problems? What is the reason?
+
+2
+0:03:23
+Stress. Stress. Do you have a toothache? Yes.
+
+3
+0:03:27
+Placement. Placement tooth.
+
+2
+0:03:29
+You are trying to get it fixed, right?
+
+1
+0:03:31
+Yes.
+
+2
+0:03:32
+But it is there now. It doesn't hurt anymore.
+
+1
+0:03:36
+Now, on the higher, both men, both men, they're getting it.
+
+
+
+
+Transcribed with Cockatoo

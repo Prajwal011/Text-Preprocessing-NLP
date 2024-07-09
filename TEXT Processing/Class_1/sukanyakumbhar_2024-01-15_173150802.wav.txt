@@ -1,0 +1,88 @@
+1
+0:00:00
+Hello. Hello.
+
+4
+0:00:02
+What are you doing?
+
+1
+0:00:04
+I am preparing for a job.
+
+3
+0:00:06
+What are you searching for?
+
+1
+0:00:09
+I am looking for a job in IT. What are you preparing for? I am preparing for a full stack job. How long have you been looking for a job? I have been doing this for 5 months now. Do you have any tension while searching for a job?
+
+1
+0:00:30
+When we are studying, we are not able to reach the level required for an interview. So, I feel that I need to study more.
+
+3
+0:00:45
+What are you trying to do?
+
+1
+0:00:47
+I practice coding and for personal interviews I practice self development and communication skills. What is your goal? What do you want to get a job and gain some experience.
+
+3
+0:01:20
+How do you want to gain experience?
+
+1
+0:01:23
+I have not got a job yet, so I am applying for a job. I don't want to go to IT, I want to go to management. I am in NSS now, so I can do that job. What are you trying to use it in the future. I have built communication skills. I want to get management in my job.
+
+3
+0:02:12
+What do you like to do?
+
+1
+0:02:15
+What is your hobby? I like to play volleyball. I am a volleyball player. And I do social work. I I can't do it.
+
+1
+0:02:56
+I have some problems. When do you feel you are an educator? I am not able to do the level of education I am supposed to do. But you are trying to do it. I am trying but I am not able to do it.
+
+3
+0:03:18
+Do you feel that you should not have this job?
+
+1
+0:03:25
+Or is it a mistake? I wanted to get an M.P.S. But I got a job. I wanted to get an MPSA, but I was looking for a job. What makes you happy? I like to work.
+
+1
+0:03:56
+I like to work. I joined NSS for that. I can do anything for that. me How much do you get irritated?
+
+3
+0:04:25
+I get irritated.
+
+1
+0:04:27
+I mean, personally.
+
+2
+0:04:30
+You can tell me.
+
+1
+0:04:31
+Actually, I have decided to get married. But I have some problems with my friends. So, I have started living alone. But you have to get married from your heart. I'm I will do it after a year.
+
+1
+0:04:47
+How is your communication with your partner? It is good. You feel good about him? You feel good about him? Yes.
+
+
+
+
+Transcribed with Cockatoo

@@ -1,0 +1,220 @@
+2
+0:00:00
+Hello, what are you doing?
+
+1
+0:00:03
+I am studying BS.
+
+2
+0:00:04
+What are you studying? Engineering. Engineering. What is your major?
+
+1
+0:00:09
+Electrical and Central Engineering.
+
+7
+0:00:11
+Electrical and Central Engineering.
+
+2
+0:00:12
+Why did you choose this field?
+
+1
+0:00:14
+I had taken CET in 12th grade. I was around 80% in that time. I was studying CSIT. I was not getting a good college. I got a good college and I am here. What did you want to do after that?
+
+1
+0:00:31
+I wanted to work in IT.
+
+2
+0:00:34
+Why did you want to work?
+
+1
+0:00:36
+Because my family's condition was not good. I had to take care of everything at home.
+
+2
+0:00:42
+You had to take care of everything at home.
+
+1
+0:00:45
+Yes.
+
+2
+0:00:46
+Did you have any pressure or stress?
+
+1
+0:00:49
+How much stress do you face? I am stressed from morning to evening. I have to prepare for the exam. How many CGs do you have to prepare? I have to prepare 8 CGs. You are not interested in this?
+
+1
+0:01:01
+No. Why? I have to go to the company and get hired. You have to go to the company and get hired. You have to go to the company and get hired. I have to go to the company and get hired.
+
+3
+0:01:13
+I have been working for 4 years
+
+2
+0:01:14
+And you work for a company?
+
+1
+0:01:16
+No, I have been working for 4-5 years I have been working for a company for a long time I have been working for a company for a long time
+
+3
+0:01:22
+I have been working for a company for a long time
+
+5
+0:01:24
+Where do you study?
+
+1
+0:01:26
+Communication
+
+3
+0:01:28
+Communication Skills?
+
+1
+0:01:32
+Skills, Hardworking Motivation
+
+3
+0:01:36
+Motivation
+
+2
+0:01:38
+Do you read and tell me?
+
+1
+0:01:40
+I read it.
+
+2
+0:01:42
+Do you believe in yourself?
+
+1
+0:01:44
+Yes, I believe in myself.
+
+2
+0:01:46
+What do you like most about life?
+
+4
+0:01:50
+I like nature.
+
+1
+0:01:52
+I like nature. I like nature.
+
+2
+0:01:58
+What is the most difficult thing?
+
+1
+0:02:00
+The most difficult thing is I was very upset. I was very upset. I was very upset. I was very upset. Did you speak to anyone?
+
+4
+0:02:10
+Yes. Did you speak to anyone?
+
+6
+0:02:12
+Yes.
+
+1
+0:02:13
+How do you feel now that you have not been selected or placed? I am very sad. I am very sad. I was supposed to be a good friend. I was depressed I was depressed
+
+2
+0:02:28
+So, what do you think about yourself? I don't have much to say I'm just angry
+
+1
+0:02:37
+I want to do something else I want to do something else What did you do for that? I want to say that I want to do something else
+
+2
+0:02:45
+I want to do something else
+
+1
+0:02:47
+or the other way around It depends on the person
+
+2
+0:02:51
+What you are doing is important Yes You are doing it in your own way You have to do it well When do you like the phase of engineering? When I first met Nidhi
+
+2
+0:03:03
+I liked her I met a friend of mine, I met him first
+
+1
+0:03:10
+What was so special about him? That you met him for the first time
+
+2
+0:03:19
+And he is still with me
+
+1
+0:03:24
+He is a student Yes, he is a student So you didn't feel lonely for 4 days? Yes, I felt it. Now I am not lonely
+
+2
+0:03:41
+Very good
+
+5
+0:03:42
+What message do you want to give to the next generation?
+
+2
+0:03:45
+What should they do? What should they do for motivation?
+
+1
+0:03:47
+Motivation is like social media Don't depend too much on the internet Do some photo analysis Motivation is like that
+
+4
+0:03:59
+I have a lot of friends who are depressed.
+
+2
+0:04:06
+I have a lot of friends who are depressed. I have a lot of friends who are depressed.
+
+1
+0:04:26
+I don't know if I can do it.
+
+3
+0:04:33
+I don't know if I can do it. I don't know if I can do it.
+
+4
+0:04:36
+I don't know if I can do it.
+
+
+
+
+Transcribed with Cockatoo

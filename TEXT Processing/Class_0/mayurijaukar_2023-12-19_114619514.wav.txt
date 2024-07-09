@@ -1,0 +1,92 @@
+2
+0:00:00
+Hello.
+
+1
+0:00:01
+Hello, ma'am.
+
+2
+0:00:02
+How are you?
+
+1
+0:00:03
+I'm fine. I'm in engineering. I've finally come here.
+
+4
+0:00:09
+What topic do you find interesting in engineering?
+
+1
+0:00:12
+I like to go into the circuits and the details of the circuits. Which project have you done? I have done projects in my second year and third year. I have done projects in IOT West for both the years. What was the budget? The project was to measure the temperature and humidity of the buildings.
+
+1
+0:00:58
+dry, wet and other metal they will separate and sensors will be put on outer and inner side it will indicate whether it is wet or dry and the motor will rotate and separate the waste and if it is filled up. This indicates to the corporation that the dustbin is filled up.
+
+1
+0:01:42
+The rest of the work is done separately. It is useful for cleaning, to keep the seat clean. So, you get happiness from all this? Yes. You get a lot of happiness? Yes.
+
+1
+0:01:57
+Your friend circles? Yes. How good was it to be with friends? Did you get more happiness with friends or with the bus or the circuit? I was more involved with friends. I forgot everything else and I was happy with friends.
+
+1
+0:02:15
+What things do you find happiness in? Normal things like I share things with my friends.
+
+3
+0:02:26
+I like to travel.
+
+1
+0:02:27
+Where have you travelled? I haven't travelled much but I feel like I should go. I am very interested in travelling. In future I will go. Where do you want to go? If you have a race car, I will go.
+
+1
+0:02:33
+I will go to the races. I will go to the races.
+
+3
+0:02:35
+I will go to the races.
+
+2
+0:02:50
+Where do you want to go?
+
+1
+0:02:52
+If you have a destination, I want to go there. I am interested in India, Manali, and North India. What do you think about social networking? What do you think about the social media? So, you have to Who all are at home?
+
+1
+0:03:37
+At home, there is my parents and my younger brother. And how old is your brother? He is in his second year now, B.Com. Ok. So, what do you think is the difference between his education and yours? He is interested in B.Com because he is ready to go for accounting.
+
+1
+0:03:55
+the people who are doing it, we should also know what is different and what to do. So, do you want to take education or work? Firstly, the job because financially I want to be stable. If later I feel that I want to get more education, I want to get a good job, then I will do education. And do you want to go to CORE or IT?
+
+1
+0:04:29
+I am more interested in CORE than IT. So I will go to CORE first. So you want to go to MBLED or VLSI? I like MBLED and VLSI, but I like VLSI more. Do you read any research articles that give you a lot of information? I don't read any information, but I watch videos where they tell us something different.
+
+1
+0:05:02
+I watch them sometimes, because I feel that I am getting something from them according to my field. or has anyone ever troubled you? No, but I feel that my family is not troubled. If they are troubled, I am troubled. My brother was very sensitive and he was very calm. The family members did not know what had happened.
+
+1
+0:05:51
+But they told him to be calm and let him decide. But he was not able to find him. I was not able to find him. I was not able to find him. I was not able to find him. I
+
+1
+0:06:28
+I and that's why we should not have any problems at home.
+
+
+
+
+Transcribed with Cockatoo

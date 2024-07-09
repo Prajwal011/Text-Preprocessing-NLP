@@ -1,0 +1,260 @@
+2
+0:00:00
+Hello. How are you?
+
+6
+0:00:03
+Fine.
+
+2
+0:00:04
+What is going on?
+
+1
+0:00:06
+Summation, practical exam.
+
+2
+0:00:09
+How was the experience of college?
+
+1
+0:00:12
+Okay.
+
+3
+0:00:14
+Okay?
+
+5
+0:00:15
+Did you like anything?
+
+1
+0:00:17
+It was good. Not too good, not too bad.
+
+2
+0:00:22
+What was the worst part?
+
+1
+0:00:26
+People, new experiences, it's all good but I never left home. I never did anything alone. Did you have problems being alone?
+
+2
+0:00:43
+Yes, my family is very big and I was never alone.
+
+1
+0:00:47
+I have a big family and no one is here
+
+2
+0:00:50
+So you are a joint family? Yes And you live here?
+
+3
+0:00:54
+Yes
+
+2
+0:00:55
+And you are just married?
+
+1
+0:00:56
+Yes, and I have a son I can't go out much Oh, you have a long life
+
+2
+0:01:01
+Yes So how do you cope up with all this?
+
+1
+0:01:04
+I talk to my roommates When I don't feel good I talk to them and they feel good when I go to their shows. I feel good when I go to their shows.
+
+2
+0:01:18
+I feel good when I go to their shows.
+
+3
+0:01:20
+I feel good when I go to their shows.
+
+1
+0:01:40
+I came here for the first time in 4 months. What did you like about this place? I liked it. I have never done anything alone. I felt independent.
+
+3
+0:01:50
+I felt I could do anything.
+
+2
+0:01:52
+That was nice. And...
+
+1
+0:01:56
+How do you feel now? I am still thinking what I should do next.
+
+2
+0:02:02
+So you are under a lot of stress?
+
+7
+0:02:04
+A little bit
+
+2
+0:02:06
+So you are hampering your routine?
+
+1
+0:02:10
+Yes, for a long time I was overthinking and I was forgetting things I was overthinking
+
+2
+0:02:24
+How many friends do you have here?
+
+1
+0:02:29
+Three
+
+2
+0:02:30
+Almost three?
+
+6
+0:02:31
+Yes
+
+2
+0:02:32
+Do you share with everyone?
+
+1
+0:02:34
+Not everyone but I share with three
+
+2
+0:02:38
+What is your life goal? My life goal is to be happy, to have money, to have a house, to have a lot of dreams. I want to be a good actress.
+
+1
+0:03:02
+I want to be a good actor. What do you think? Why do you like it?
+
+2
+0:03:11
+I think I like to do business.
+
+1
+0:03:15
+So you have a business at home? Yes.
+
+3
+0:03:17
+What kind of business do you want to do?
+
+1
+0:03:18
+I have not done anything yet, but I want to do business.
+
+3
+0:03:20
+So you want to be independent?
+
+2
+0:03:21
+Yes. You don't want to live in a village?
+
+3
+0:03:23
+No.
+
+5
+0:03:24
+Very good.
+
+2
+0:03:25
+Do you feel like that?
+
+1
+0:03:37
+Yes, I feel very bad. I have taken many decisions which were not right. Mostly not.
+
+2
+0:03:45
+Do you get angry or regret?
+
+1
+0:03:48
+Yes, I do. I feel very bad.
+
+3
+0:03:51
+Do you feel like crying? Yes.
+
+4
+0:03:53
+Do you feel emotional?
+
+2
+0:03:54
+Yes. What are you going to do next? You are not interested in doing a job?
+
+3
+0:04:00
+No, I am not interested in doing a job.
+
+2
+0:04:02
+I am preparing for MBA. Are you going to be in placement?
+
+1
+0:04:07
+No, I am not going to be in placement for backup. But I am going to be in MBA.
+
+2
+0:04:12
+What do you want to do?
+
+1
+0:04:14
+I will have to think about that, but I will tell you. I am... I am a feminist.
+
+2
+0:04:20
+What is your favourite genre?
+
+1
+0:04:22
+Reading. Reading?
+
+2
+0:04:24
+Yes.
+
+1
+0:04:25
+Which books? No, no.
+
+3
+0:04:27
+Fiction. How do you manage your time?
+
+2
+0:04:30
+I manage my time. I have to go to college, then I have to attend MBA classes for 2-3 hours, and then I have to go to Japan for my friend's birthday. I have to go to college, then I have to attend MBA classes for 2-3 hours, and then I have to go to Japan for my friend's birthday.
+
+1
+0:04:46
+Thank you.
+
+
+
+
+Transcribed with Cockatoo

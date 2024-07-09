@@ -1,0 +1,248 @@
+9
+0:00:00
+Hello.
+
+1
+0:00:01
+Hello.
+
+3
+0:00:02
+How are you? I'm fine.
+
+2
+0:00:04
+What's going on? College. What's going on in college?
+
+1
+0:00:08
+Classes and all.
+
+2
+0:00:10
+Which class are you in?
+
+1
+0:00:12
+B, last year.
+
+7
+0:00:14
+Okay.
+
+2
+0:00:15
+What's going on in the final year? What are you doing in the final year? What are you preparing for?
+
+1
+0:00:21
+Nothing much. Placements? Placements. I have some.
+
+2
+0:00:28
+Do you feel any pressure about placements?
+
+1
+0:00:31
+I don't feel any pressure about it.
+
+2
+0:00:33
+Okay. What is your future plan?
+
+1
+0:00:37
+My future plan is that once I finish engineering, I will try to do that.
+
+2
+0:00:50
+Have you prepared for CEDAC?
+
+1
+0:00:53
+I haven't prepared yet, but I know what the procedure is.
+
+2
+0:00:58
+Do you have any exam for that?
+
+1
+0:01:00
+No, no. I have coaching classes.
+
+2
+0:01:03
+Direct coaching classes? Direct coaching classes. Don't you have to take any exam? No, no. For entrance?
+
+6
+0:01:08
+No, no.
+
+1
+0:01:09
+Then which field do you want to go to the embedded system.
+
+2
+0:01:18
+What branches of CDAC do you have?
+
+1
+0:01:21
+There are many branches, different coaching centers.
+
+2
+0:01:24
+So what do you like about embedded?
+
+1
+0:01:30
+I like that the job is free, there's no need to pay. I've seen my father's work, so I know.
+
+2
+0:01:42
+What are the technical things you like about it?
+
+1
+0:01:45
+There are different roles of different companies. Electronics related, it's a kind of hardware plus software job type. It's job security is also good. It's a luxurious type of life.
+
+2
+0:02:02
+Okay. Do you know how many companies in Pune are embedded in the top most companies?
+
+1
+0:02:10
+I don't know about the top most companies, but there are many companies.
+
+8
+0:02:16
+Average package?
+
+1
+0:02:17
+Its average package depends on the experience.
+
+7
+0:02:23
+Okay.
+
+2
+0:02:24
+So, you have developed skills, like processor, controller, communication protocol, have you started any studies? I know the basics, like microcontroller, processor, but I don't know the in-depth details.
+
+1
+0:02:35
+My plan is to start with this and then go further. Apart from MBDET, what are your other hobbies?
+
+4
+0:02:52
+What do you like to do?
+
+2
+0:02:54
+What do you do when you have a foul ball? I chill. You mean you chill on your mobile? Yes, I chill on my mobile.
+
+1
+0:03:02
+I play web series and cricket. What kind of series do you like? I can't say what kind. I don't have a specific type of movie. I used to like the Marvel series, but now I don't like their content. I didn't want to watch them. I was more interested in dramas.
+
+2
+0:03:44
+What else do you like?
+
+6
+0:03:46
+Nothing else.
+
+2
+0:03:47
+What makes you happy? What makes me happy?
+
+1
+0:03:53
+I feel calm and peaceful.
+
+2
+0:04:00
+There are many things in life, but mood changes. I am a moody person, so I change.
+
+1
+0:04:08
+Sometimes I get religious thoughts. I feel like going to a temple. I used to feel like that. I used to feel like going home and watching a series. I used to feel like eating something. I used to feel like eating jaggery.
+
+1
+0:04:44
+I used to feel like eating jaggery. I used to feel like eating spicy food. I used to feel like eating spicy food. I used to feel like eating spicy food. I can do everything, not just one thing. Sometimes I give time to my family, sometimes I spend time with my friends.
+
+1
+0:05:00
+How is your friendship?
+
+4
+0:05:01
+It's good, but I lack females.
+
+1
+0:05:03
+What makes you so sad?
+
+2
+0:05:04
+I am single.
+
+6
+0:05:05
+That's the reason.
+
+5
+0:05:06
+Why do you feel so?
+
+2
+0:05:07
+Why do you feel so sad?
+
+1
+0:05:17
+The reason for my sadness is... I have cash now. Boys... I see couples going out. I feel like I have no one. I have plans.
+
+1
+0:05:38
+I don't think I need a partner at the end of the day. I think I need someone to support me.
+
+2
+0:05:46
+What makes you feel insecure about the future?
+
+1
+0:05:53
+I feel scared. I feel scared because I haven't been successful. What will happen next? I believe in luxurious life. I feel that this is the world. I feel that I am in love with that.
+
+1
+0:06:10
+I don't like anything else. Why do you feel that you can't enjoy things because they are not new. I keep doing the same thing over and over again. Kind of...
+
+4
+0:06:38
+What should I say?
+
+2
+0:06:40
+Is there anything that you still feel guilty about? Or do you feel about it?
+
+1
+0:06:52
+I feel that if I had done a series at a particular time, I would have been in a better position.
+
+2
+0:07:28
+Are you trying to do something for that? Are you trying to do something for that?
+
+1
+0:07:31
+Thank you.
+
+
+
+
+Transcribed with Cockatoo

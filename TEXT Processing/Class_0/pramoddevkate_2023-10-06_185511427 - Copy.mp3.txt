@@ -1,0 +1,296 @@
+2
+0:00:00
+Hello, how are you?
+
+1
+0:00:05
+Fine.
+
+8
+0:00:06
+Fine.
+
+2
+0:00:07
+What's going on? What are you doing?
+
+1
+0:00:09
+I'm doing my exam. The load is heavy.
+
+2
+0:00:12
+Is it a stressful exam?
+
+1
+0:00:14
+A little bit.
+
+4
+0:00:16
+A little bit.
+
+1
+0:00:17
+I have to do the PAS test, so it's a little bit stressful.
+
+4
+0:00:21
+A little bit.
+
+2
+0:00:22
+But how do you get used to it? How long have you been doing this?
+
+1
+0:00:27
+I have been doing this since the beginning of the exam. So it's a little easier. How many days are left for the exam? It's level 2 now. I will be doing this now. After this, I will be doing the interview.
+
+1
+0:00:42
+Are you prepared for the interview? I am a little scared of interviews
+
+2
+0:00:52
+Do you feel more of the issue of face-to-face or knowledge related problems?
+
+1
+0:01:00
+I am not good in English, so I am scared of interviews What is your CGPA? 8.3
+
+2
+0:01:11
+That's a good studio. It's very good.
+
+1
+0:01:14
+My English is a little problem. It's nothing like that. English should be good.
+
+2
+0:01:18
+How is your college life? I don't talk to anyone much. I'm more on my own.
+
+1
+0:01:26
+Why? I used to help a lot. I mean, we do it, but we don't have the next effort. So, we don't wait.
+
+2
+0:01:45
+So, you don't have any friends?
+
+1
+0:01:47
+There are a couple of friends.
+
+2
+0:01:49
+So, you don't go out to chat?
+
+7
+0:01:51
+No.
+
+2
+0:01:52
+Not at all?
+
+1
+0:01:53
+We don't go out, we don't meet up. We are just the three of us. We go to the triple six. We just take a few photos.
+
+2
+0:02:01
+So, do you stay at home or outside?
+
+1
+0:02:04
+I prefer to stay at home.
+
+6
+0:02:06
+So, what is your favorite subject?
+
+1
+0:02:11
+I like coding. And what is your other favorite subject? I like watching movies and anime
+
+2
+0:02:28
+Which is your last movie?
+
+1
+0:02:30
+Nantu How is the movie? I like horror movies
+
+2
+0:02:36
+Which movie have you seen? I don't watch movies in the theater
+
+1
+0:02:40
+I watch movies on mobile I have seen the last movie in the theater It was Marjan Chali I have seen that What do you like to travel? I like to travel.
+
+1
+0:02:54
+I like nature.
+
+6
+0:02:56
+How do you feel about nature?
+
+2
+0:02:58
+I feel happy. What routine do you follow throughout the day? I go to the gym in the morning, then I have lunch,
+
+1
+0:03:06
+then I go to college, then I do some work for 2-3 hours, then I go to the gym, then I have lunch, then I do some work for 2-3 hours. After that, I eat at 8-9 pm.
+
+1
+0:03:21
+I look at my laptop and go to bed at 10 pm.
+
+2
+0:03:24
+What do you want to do in future?
+
+1
+0:03:27
+I want to get a good job. Do you have any dreams? I want to get a good job. A circle? Yes, I want a rich lifestyle.
+
+5
+0:03:43
+What is a rich lifestyle?
+
+2
+0:03:45
+I want a car, etc.
+
+1
+0:03:47
+I don't have a background in this. I had a brother, but he passed away recently. I want to do what I want. I have to go to the hospital. Do you like to stay alone or with your friends?
+
+3
+0:04:03
+I like to stay alone.
+
+2
+0:04:05
+Do you like to travel alone or with your friends? Alone. Did you like to travel alone before?
+
+1
+0:04:10
+Yes, I used to travel alone with my friends. We were not a small group. There were 8, 9, 10 people. And then gradually we started working one by one. What is your favourite song?
+
+2
+0:04:34
+My favourite song... I don't watch any of the performances.
+
+1
+0:04:38
+I like listening to music.
+
+2
+0:04:52
+Do you have any idea about the current situation in India? I don't watch much news. Do you have any idea about your field?
+
+1
+0:05:01
+and then which phones are available in which code
+
+3
+0:05:05
+and so on.
+
+1
+0:05:07
+So, what is the scope in this field? What is the future of this field for Bharat? What is the scope of your field, the engineering field? Now, I mean, currently, when we go to the developer, we will create different applications in the developer.
+
+1
+0:05:41
+But we are getting new automation. There is a new AI. What do you think about it? AI? But it is easier to work with. What are the benefits and disadvantages? The benefit is that we will have less employment. I have been working on it for 2 months now.
+
+1
+0:06:03
+But it is good for education. Earlier there were many paid courses, but now it is knowledge free. What do you think about the Indian culture?
+
+2
+0:06:21
+The way we live, the family structure, do you think it's better in India or in the Western countries? In India. Why? It's not like that. It just feels natural.
+
+2
+0:06:38
+It feels natural?
+
+1
+0:06:40
+Yes.
+
+2
+0:06:41
+Can you explain a little?
+
+1
+0:06:43
+Explaining means, at home, everyone wears simple clothes, and sarees, and other things. That's what I like.
+
+2
+0:06:51
+And what do you think of our culture and our systems?
+
+1
+0:06:55
+Are they necessary? Yes, a lot. What difference does it make to you to have a channel in western culture? If I had a shiva at home, I would have brought it to my home and sat down. Then I wouldn't have to go out.
+
+3
+0:07:25
+How do you feel everyday?
+
+2
+0:07:28
+Do you feel happy? Or stressful?
+
+1
+0:07:33
+No, I like it. I feel like I'm getting something good every morning.
+
+2
+0:07:43
+Do you have any plans for the future?
+
+1
+0:07:48
+I'm just working now. I've decided to travel. I'm going to travel weekly. What about after you pass out? After I pass out, I will go to the Kedarnath for a job. After that, I will do some other work. I will do as much as I can.
+
+2
+0:08:15
+How was your college life?
+
+1
+0:08:17
+In college life, we were a group of three. We didn't have many other people. We had to do our practicals, our college was like that, we would start in the morning and finish in the evening. How was your childhood? Childhood was the best.
+
+2
+0:08:39
+Why best?
+
+1
+0:08:41
+We would play a lot, we would not stay at home all day. We would stay outside. Mom would call us, our class was different, 5th and 4th, I was in class on the fifth or fourth day. My mother used to call me and ask when I would be going to class.
+
+1
+0:09:00
+My class was on the same floor as my house. My teacher used to say, you are still outside, you don't know anything about the class.
+
+4
+0:09:13
+I don't have a best.
+
+3
+0:09:14
+Who is this? Who is this? Take care.
+
+
+
+
+Transcribed with Cockatoo

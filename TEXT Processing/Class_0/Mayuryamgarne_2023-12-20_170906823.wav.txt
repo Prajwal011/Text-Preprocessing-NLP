@@ -1,0 +1,212 @@
+6
+0:00:00
+Hello.
+
+2
+0:00:01
+How are you?
+
+4
+0:00:02
+I am fine.
+
+6
+0:00:03
+What are you doing?
+
+1
+0:00:04
+I am practicing for the tour. I am in the back stage. What are you doing in the back stage? I am making some properties in the back stage. We use these properties in the dance. I am making a lamp.
+
+2
+0:00:19
+Do you use it in dance or just for representation?
+
+1
+0:00:29
+I use it in dance.
+
+2
+0:00:30
+You use it in everything. What did you do before that?
+
+1
+0:00:33
+Before that...
+
+2
+0:00:35
+Is it your first year?
+
+1
+0:00:37
+No, I am in my third year now. This is my second process.
+
+2
+0:00:41
+What did you do last year?
+
+1
+0:00:43
+Same as last year. I was helping them with their exams. I was helping them with their exams. I was helping them with their exams.
+
+2
+0:00:58
+Do you enjoy doing all this?
+
+7
+0:01:00
+Do you enjoy doing all this?
+
+2
+0:01:02
+Yes.
+
+7
+0:01:04
+What is the satisfaction?
+
+1
+0:01:06
+What is the satisfaction? What is the satisfaction? So, I feel fresh. I feel better than sitting on my mobile or laptop. I get new skills. I make new friends.
+
+2
+0:01:27
+How is your college education? It is going well.
+
+1
+0:01:32
+What do you like about mechanical engineering?
+
+2
+0:01:34
+What did you do in Mechanical Engineering? In Mechanical Engineering...
+
+1
+0:01:38
+I don't know how to say it in Mechanical Engineering.
+
+6
+0:01:41
+Why don't you know?
+
+1
+0:01:42
+Did you take the Admission? Yes, I did. Actually, I wanted to try for Computer Science.
+
+6
+0:01:48
+But, the score was low.
+
+2
+0:01:50
+And... In the future, I wanted to study Computer Science.
+
+1
+0:01:53
+How was it in Mechanical Engineering? In the future, I want to study computer science. I want to study mechanical engineering. I want to get a plus point in mechanical engineering. I want to study IT and software engineering. I want to study core engineering.
+
+1
+0:02:07
+I want to study government exams. How many government exams do you know? Did you take any information? No.
+
+4
+0:02:17
+Not yet?
+
+2
+0:02:18
+Not yet. What else do you like to do?
+
+1
+0:02:30
+I used to do reading, but I haven't done it for the last 2-3 years. I also like trekking. Do you do it regularly?
+
+2
+0:02:38
+No, I don't.
+
+1
+0:02:39
+I don't get time for that.
+
+2
+0:02:50
+What do you like to do?
+
+1
+0:02:52
+What do you do now? What do I do now? I watch plays on YouTube. I also watch OPP for plays.
+
+3
+0:03:00
+Which category do you like to watch? Which category do you like to watch?
+
+2
+0:03:04
+Which category do you like to watch?
+
+1
+0:03:08
+The real ones. What have you watched recently? I recently watched a play by MIT, Mumbai Mirage. In that, a few years ago, David was in India. I saw his scene.
+
+2
+0:03:26
+Which thing did you like in that play? What was so special about that play?
+
+1
+0:03:34
+In that play, I liked the lady's character. I liked her acting. What was your concept? Her husband told her that he was going to work. He was working for a gang.
+
+5
+0:03:54
+He went to Dubai.
+
+1
+0:03:55
+He never came back. He thought that he was killed by that boss. Then he goes to a woman in Mumbai. And tells her that this happened and that he killed my husband. And she has to take revenge.
+
+2
+0:04:15
+So, it's about revenge. Yes, revenge. Normally, do you have any friend in your mind who you don't like? Do you have done something wrong in your life? No. Do you ever feel like you have done something wrong in your life?
+
+1
+0:04:39
+No. Do you ever feel like you have done something wrong in your life?
+
+2
+0:04:45
+No. Do you ever feel like you have done something wrong in your life? I was not able to do it. I was not able to do it.
+
+1
+0:04:55
+I was not able to do it. Actually, I was going to join a maritime engineering school when I was 12 years old. But I couldn't do it because of my family. But now my family is ready to help me. I am doing it because I am getting a chance to go there.
+
+2
+0:05:12
+That's why I chose mechanical engineering. Okay.
+
+4
+0:05:16
+How are you with your friends?
+
+1
+0:05:18
+We are good.
+
+2
+0:05:20
+What do you enjoy with your friends?
+
+4
+0:05:22
+With friends...
+
+1
+0:05:24
+We normally sit and joke around. We joke around, have fun. We joke around, have fun. Okay. That's good.
+
+
+
+
+Transcribed with Cockatoo

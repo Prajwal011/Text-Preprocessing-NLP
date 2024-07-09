@@ -1,0 +1,192 @@
+2
+0:00:00
+Hello, how are you?
+
+3
+0:00:02
+I am fine sir
+
+1
+0:00:03
+How is your health?
+
+9
+0:00:04
+I am fine
+
+2
+0:00:06
+What is the status of your body?
+
+1
+0:00:08
+I am getting better with the placement I am getting better with the practice
+
+8
+0:00:14
+Rest is fine
+
+7
+0:00:15
+Rest is fine?
+
+2
+0:00:16
+Tension, stress?
+
+1
+0:00:17
+No
+
+3
+0:00:18
+Not at all?
+
+1
+0:00:19
+No Why?
+
+4
+0:00:21
+Not that much
+
+5
+0:00:22
+Why?
+
+2
+0:00:23
+Everyone says that you are all stressed out?
+
+1
+0:00:26
+No, because of the stress of the company and placements. I already have a sponsorship portfolio, so I can get a year's experience and continue from there. What do you want to do next? Government services. What kind of government services?
+
+6
+0:00:42
+ISRO and DRDO.
+
+1
+0:00:43
+Do you have an opportunity in field? Yes, in ENTC I am doing my research in DRDO
+
+2
+0:00:56
+What are you doing here?
+
+1
+0:01:00
+I am doing a sponsored project for scientists Do you like this field?
+
+4
+0:01:06
+Yes Did you choose this field?
+
+2
+0:01:08
+Yes, I chose this field
+
+3
+0:01:10
+I have been doing this for 7 years.
+
+1
+0:01:12
+So you have been doing this for a long time.
+
+2
+0:01:14
+Do you have any work here? I go to work at home.
+
+1
+0:01:18
+I get done in 15-20 days. I am close to home. I have a housekeeper. I live in Warwal. It takes me only 3-4 hours to get there. So you have been living here since you left home.
+
+2
+0:01:31
+Did you have any difficulties in starting?
+
+1
+0:01:39
+Yes, I had some difficulties. I had to make friends and get along with the environment. How did you deal with it? Mainly, my sister was here. So, I didn't have the pressure to deal with it. I managed everything for her. What is your mental state? I mean...
+
+4
+0:01:56
+What do you think about the current situation?
+
+2
+0:01:58
+What do you think about the current situation? You are talking about suicide, depression, anxiety, they are getting scared, what do you think about that? Overthinking, many people are taking punch-drills for the wrong reasons. They think they can sit in the front, they can do anything.
+
+1
+0:02:15
+and games knowledge If you were to say that you are on a radio show
+
+4
+0:02:23
+how would you describe the future of India?
+
+5
+0:02:27
+in terms of research and innovation
+
+4
+0:02:29
+what are your future plans?
+
+2
+0:02:33
+Obviously, after 2000 it is the Indian century.
+
+1
+0:02:52
+And there is a lot of operation going on here. New techniques are also coming. And confidential data, that's why I can't tell you. That's good, but you have to do something different.
+
+4
+0:03:05
+What do you do in your family?
+
+2
+0:03:07
+What? What do you do in your free time?
+
+4
+0:03:10
+What do you do in your free time?
+
+2
+0:03:12
+I talk to my friends, or I spend time with them.
+
+1
+0:03:18
+Otherwise I don't watch web series. Do you have any addiction to web series? No. How do you balance it? I was not able to do much during my diploma period.
+
+2
+0:03:28
+So I was completely focused on my studies.
+
+3
+0:03:31
+I used to spend time at home.
+
+2
+0:03:33
+It's been 3 years since I came to Italy.
+
+1
+0:03:35
+It's been 6 months now, I have to go for my DLDs. So I don't have my mobile phone with me. So I have already managed to get it. How was the COVID situation in Italy? What do you mean? Did you have to stay at home and use your phone?
+
+2
+0:03:53
+We were in the village, so there was no problem.
+
+1
+0:04:02
+There was no police, so we were able to stay. We had our own property in the village, so there was no problem. We had our own property in the village, so there was no problem. you
+
+
+
+
+Transcribed with Cockatoo

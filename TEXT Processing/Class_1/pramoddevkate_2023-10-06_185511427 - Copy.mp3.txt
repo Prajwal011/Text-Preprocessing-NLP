@@ -1,0 +1,296 @@
+2
+0:00:00
+Hello, how are you?
+
+1
+0:00:05
+Fine.
+
+8
+0:00:06
+Fine.
+
+2
+0:00:07
+What's going on? What are you doing?
+
+1
+0:00:09
+I'm doing my exam. The load is heavy.
+
+2
+0:00:12
+Is it a stressful exam?
+
+1
+0:00:14
+A little bit.
+
+7
+0:00:16
+A little bit.
+
+1
+0:00:17
+I have to do the PAS test, so it's a little bit stressful.
+
+3
+0:00:21
+A little bit.
+
+2
+0:00:22
+But how do you get used to it? How long have you been doing this?
+
+1
+0:00:27
+I have been doing this since the beginning of the exam. So it's a little easier. How many days are left for the exam? It's level 2 now. I will be doing this now. After this, I will be doing the interview.
+
+1
+0:00:42
+Are you prepared for the interview? I am a little scared of interviews
+
+2
+0:00:52
+Do you feel more of the issue of face-to-face or knowledge related problems?
+
+1
+0:01:00
+I am not good in English, so I am scared of interviews What is your CGPA? 8.3 That is a little problem.
+
+2
+0:01:17
+It's nothing like that. English should be good. How is your college life? I don't talk to anyone much.
+
+1
+0:01:25
+I talk to myself. Why? I have helped a lot. I mean, we do it, but we don't have the next effort. So, we don't wait. So, you don't meet now?
+
+1
+0:01:39
+We meet, just 2-4 times. So, you don't go out to talk? No. Not at all?
+
+2
+0:01:45
+We don't go out, we don't meet once a week.
+
+1
+0:01:47
+We are always together.
+
+2
+0:01:49
+We go to triple six.
+
+1
+0:01:51
+Sometimes we take photos. So, do you stay at home or outside? I prefer to stay at home.
+
+5
+0:02:06
+So, what is your favorite subject?
+
+1
+0:02:11
+I like coding. And what is your other favorite subject? I like watching movies and anime
+
+2
+0:02:28
+Which is your last movie?
+
+1
+0:02:30
+Nantu How is the movie? I like horror movies
+
+2
+0:02:36
+I see Have you watched any of the movies?
+
+1
+0:02:40
+No, I don't watch movies in the theater I watch movies on my mobile phone I watched the last movie in the theater It was Marjan Chali I watched that
+
+2
+0:02:50
+What do you like to travel?
+
+1
+0:02:52
+I like to travel. I like nature.
+
+6
+0:02:56
+How do you feel about nature?
+
+2
+0:02:58
+I feel happy.
+
+1
+0:03:00
+What is your daily routine?
+
+6
+0:03:02
+I go to the gym in the morning,
+
+2
+0:03:04
+then I have lunch,
+
+1
+0:03:06
+then I go to college, then I do some work for 2-3 hours, then I go to the gym, then I have lunch, then I do some work for 2-3 hours. After that I eat at 8-9 pm,
+
+1
+0:03:21
+I look at my laptop and I go to bed at 10 pm.
+
+2
+0:03:24
+What do you want to do in future?
+
+1
+0:03:27
+I want to get a good job. Do you have any dreams? I want to get a good job. A circle? Yes, I want a rich lifestyle.
+
+4
+0:03:43
+What do you mean by rich lifestyle?
+
+2
+0:03:45
+I mean cars, etc.
+
+1
+0:03:47
+I don't have a background in this. I was a big brother, but I didn't have much. Now I have to go to the hospital.
+
+2
+0:04:02
+Do you like to stay alone or with your friends? I like to stay alone. Do you like to travel alone or with your friends?
+
+3
+0:04:10
+Alone.
+
+1
+0:04:11
+Did you like to travel alone before?
+
+2
+0:04:13
+Yes, I used to travel a lot with my friends.
+
+1
+0:04:15
+We were not a small group. There were 8, 9, 10 people. And then gradually we started working one by one. What is your favourite song?
+
+2
+0:04:34
+My favourite song... I don't watch any of the performances.
+
+1
+0:04:38
+I like listening to music.
+
+2
+0:04:52
+Do you have any idea about the current situation in India? I don't watch much news. Do you have any idea about your field?
+
+1
+0:05:01
+and then which phones are available in which code
+
+5
+0:05:05
+and so on.
+
+1
+0:05:07
+So, what is the scope in this field? What is the future of this field for Bharat? What is the scope of your field, the engineering field? Now, I mean, currently, when we go to the developer, we will create different applications in the developer.
+
+1
+0:05:41
+But we are getting new automation. There is a new AI. What do you think about it? AI? It makes the work easier. What are the benefits and disadvantages? The benefit is that the employment will be reduced. The job will be reduced.
+
+1
+0:05:54
+I have been working on it for 2 months now. But it is good for education. Earlier there were many paid courses, but now it is knowledge free. What do you think about the Indian culture?
+
+2
+0:06:20
+The way we live, the family structure, do you think it's better in India or in the Western culture? In India. Why? It's not like that. It just feels natural.
+
+2
+0:06:37
+It feels natural. Can you explain a little?
+
+1
+0:06:41
+Explaining means, at home, everyone wears simple clothes, and sarees, and other things. That's what feels good.
+
+2
+0:06:50
+And what do you think about our culture and our systems?
+
+4
+0:06:54
+Are they necessary?
+
+1
+0:06:56
+Yes, a lot. What difference does it make to you to have a Western culture? If I had to tell you, I would have told you to come to my house and sit down. Then I wouldn't have to go out.
+
+3
+0:07:25
+How do you feel everyday?
+
+2
+0:07:28
+Do you feel happy? Do you feel stressful?
+
+1
+0:07:33
+No, I like it. I feel like I can drink a lot of water every morning.
+
+2
+0:07:43
+Do you have any plans for the future?
+
+1
+0:07:48
+I have a job and that's all. I have decided to travel. I want to go to Delhi weekly. What about after you pass out? After I pass out, I will go to the job and then I will do some other work. I will do whatever I can.
+
+2
+0:08:15
+How was your college life?
+
+1
+0:08:17
+In college life, we were a group of three. We didn't have many other people. We used to do our practicals at different times. In college, we used to start in the morning and finish in the evening. How was your childhood? It was the best.
+
+2
+0:08:39
+Why the best?
+
+1
+0:08:41
+We were not at home all day. We were outside. Mom would call us. We had different classes on the 5th and 4th. So, my mother used to call me and ask when will the class be different. And the teacher, I mean, our class was on the same floor.
+
+1
+0:08:59
+I mean, it was on the same floor. I mean, my house was on the same floor and the class was on the same floor. So, the teacher used to say, you are still outside, you haven't come home yet, and you don't know anything about the class.
+
+3
+0:09:10
+I don't have a best. Who is this? Who is this?
+
+1
+0:09:12
+Take care.
+
+
+
+
+Transcribed with Cockatoo

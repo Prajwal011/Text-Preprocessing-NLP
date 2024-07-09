@@ -1,0 +1,120 @@
+6
+0:00:00
+Hello.
+
+5
+0:00:01
+Hello.
+
+2
+0:00:02
+How are you?
+
+5
+0:00:03
+I am fine.
+
+1
+0:00:04
+What are you doing now? I am doing my NSS activities and college internship.
+
+2
+0:00:11
+Where are you doing the internship?
+
+1
+0:00:13
+I am doing a company called Sinensis in Thane. I met a reference there.
+
+2
+0:00:18
+Is it online?
+
+1
+0:00:20
+Yes, it is online. You have been allowed to do it online? Yes. What are you doing in NSS? I am a Camp Coordinator. I am working on Camp Coordination.
+
+1
+0:00:31
+What are the activities that you have? I have a complete Camp under me. I have divided the work into teams and assigned tasks to each person. I give them a target for the day. I give them a target that this task should be done. And what are the tasks?
+
+1
+0:00:49
+Teams are divided. I have divided teams. Goods team, technical team, painting team, medical kit team, art team, invitation cards team, department wise. Do you get a lot of happiness from all this? Yes, a lot. And how is your academic life?
+
+1
+0:01:17
+It is stable. Before, it was a little imbalanced, but now it is stable.
+
+2
+0:01:24
+And do you ever balance both?
+
+1
+0:01:27
+Not currently, because I get stressed. I have to pay a lot of attention here as well. If something goes wrong here, the seniors come and tell me. Because the camp should be done properly. I have to hide it from the teachers there. That is not possible to manage now.
+
+1
+0:01:41
+If you were given the option between NSS and Academics, which one would you choose? I will choose Academics. What do you like about Academics? You are in IT. Which branch or field do you like? I am currently working in ML.
+
+1
+0:02:02
+What have you done so far? I am working on Python. I am working on a landing page. I am also working on blind people in ML. I am working on their language and identification. I am working on that. to
+
+1
+0:02:44
+I go to the bank to get their papers. Do you like to do social work? Yes. Why do you feel sad? When something goes against my will.
+
+4
+0:02:57
+Is it something specific?
+
+1
+0:02:59
+Or is it something that you still hate?
+
+2
+0:03:05
+Yes, there are many things like that.
+
+1
+0:03:09
+I have a lot of such things, not just one, but a lot of such things. Which one of them is the one that you find difficult? I have a very stubborn nature. Mainly I tell my parents and I go against their wishes. Then I regret that I should have listened to them. I get fed up of that.
+
+1
+0:03:31
+And which one of them do you find enjoyable?
+
+2
+0:03:34
+Social work.
+
+1
+0:03:37
+I am happy I am happy that I did social work How is the friendship circle? It is fine. My nature is polite, so many people have joined me So it is normal What makes you feel guilty?
+
+4
+0:03:53
+If I don't do academics, I feel guilty
+
+1
+0:03:57
+And what makes you feel troubled? What is the reason for your problems? What thoughts do you have? I had a lot of thoughts before this. Can you tell us? I can't do anything.
+
+3
+0:04:26
+Why do you think you are not capable of taking decisions?
+
+2
+0:04:30
+Or that you can't stay in the position you have taken? Because I have made many mistakes. I have made many mistakes. Even in engineering, I have made mistakes.
+
+1
+0:04:40
+Why do you think so? I I regret that I didn't take up engineering. I regret that I didn't take up engineering. If I had taken up BSc, it would have been fine.
+
+
+
+
+Transcribed with Cockatoo
